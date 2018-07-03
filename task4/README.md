@@ -5,7 +5,9 @@ This is a python program to find sum of multiples of 4 and 5 below 1000
 Prerequisties:
  1.This can be run on ubuntu 16.04 using command :
    python file name
+   
 Logic:
+
   999/4=249
   999/5=199
   999/20=49
